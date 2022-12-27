@@ -6,7 +6,8 @@
 </br>
 
 <div>
-  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <img width="400px" align="right" src="https://user-images.githubusercontent.com/85592265/209687162-ae19bdd1-7723-444f-a721-c56477b01c25.jpg" />
+
   <h2>Quick Info</h2>
   <ul>
     <li🔭 I’m currently working on [Developing Safe and Efficient Self-Driving Vehicles’ Operation through Sensor Data](https://github.com/ISEF-7/project_v3)
