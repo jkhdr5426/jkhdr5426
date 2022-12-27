@@ -1,4 +1,4 @@
-
+<img width="70px" src="https://visitor-badge.glitch.me/badge?page_id=jkhdr5426.jkhdr5426"/>
 <a href="https://www.reddit.com/user/jkhdr5426">
   <img align="left" alt="jkhdr5426 Reddit" width="22px" src="https://www.reddit.com/favicon.ico"/>
 </a>
@@ -35,4 +35,3 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jkhdr5426&show_icons=true&theme=great-gatsby" alt="jkhdr5426" />
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=jkhdr5426.jkhdr5426"/>
