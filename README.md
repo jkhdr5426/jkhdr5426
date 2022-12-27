@@ -1,13 +1,3 @@
-# ⚡️Quick Info
-
-- 
-- 
-- 
-- 
-- 
-- 
--
-- 
 
 <a href="https://linkedin.com/in/tomas-ondrejka">
   <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
@@ -17,7 +7,7 @@
 
 <div>
   <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
-  <h2>⚡️ A Few Quick Facts</h2>
+  <h2>Quick Info</h2>
   <ul>
     <li🔭 I’m currently working on [Developing Safe and Efficient Self-Driving Vehicles’ Operation through Sensor Data](https://github.com/ISEF-7/project_v3)
     <li>🧐 Studying for the AWS Solutions Associate exam.</li>
