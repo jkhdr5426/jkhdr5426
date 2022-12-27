@@ -1,12 +1,13 @@
 
 <a href="https://www.reddit.com/user/jkhdr5426">
   <img align="left" alt="jkhdr5426 Reddit" width="22px" src="https://www.reddit.com/favicon.ico"/>
+  <img align="left" alt="jkhdr5426 Spotify" width="22px" src="https://open.spotify.com/favicon.ico"/>
 </a>
 
 </br>
 
 <div>
-  <img width="400px" align="right" src="https://user-images.githubusercontent.com/85592265/209687162-ae19bdd1-7723-444f-a721-c56477b01c25.jpg" />
+  <img width="380px" align="right" src="https://user-images.githubusercontent.com/85592265/209687162-ae19bdd1-7723-444f-a721-c56477b01c25.jpg" />
 
   <h2>Quick Info</h2>
   <ul>
