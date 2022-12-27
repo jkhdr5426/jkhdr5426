@@ -1,5 +1,5 @@
 
-<a href="">
+<a href="https://www.reddit.com/user/jkhdr5426">
   <img align="left" alt="jkhdr5426 Reddit" width="22px" src="https://www.reddit.com/favicon.ico"/>
 </a>
 
