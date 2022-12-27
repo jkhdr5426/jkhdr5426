@@ -1,6 +1,8 @@
 
 <a href="https://www.reddit.com/user/jkhdr5426">
   <img align="left" alt="jkhdr5426 Reddit" width="22px" src="https://www.reddit.com/favicon.ico"/>
+</a>
+<a href="https://open.spotify.com/user/31rpqspvmuwur35crrvd6wqdqmpa">
   <img align="left" alt="jkhdr5426 Spotify" width="22px" src="https://open.spotify.com/favicon.ico"/>
 </a>
 
