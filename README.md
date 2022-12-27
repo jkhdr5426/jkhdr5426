@@ -35,4 +35,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jkhdr5426&show_icons=true&theme=great-gatsby" alt="jkhdr5426" />
 
-<!-- <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=jkhdr5426.jkhdr5426" /> -->
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=jkhdr5426.jkhdr5426"/>
