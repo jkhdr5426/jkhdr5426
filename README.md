@@ -7,7 +7,7 @@
 </br>
 
 <div>
-  <img width="300px" align="right" src="https://user-images.githubusercontent.com/85592265/209687162-ae19bdd1-7723-444f-a721-c56477b01c25.jpg" />
+  <img width="370px" align="right" src="https://user-images.githubusercontent.com/85592265/209687162-ae19bdd1-7723-444f-a721-c56477b01c25.jpg" />
 
   <h2>Quick Info</h2>
   <ul>
