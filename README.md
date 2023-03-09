@@ -15,7 +15,7 @@
 
   <h2>Quick Info</h2>
   <ul>
-    <li> 🔭 I’m currently working on <a href="https://github.com/ISEF-7/project_v3">Developing Safe and Efficient Self-Driving Vehicles’ Operation through Sensor Data</a>
+    <li> 🔭 I’m currently working on <a href="https://github.com/ISEF-7/project_v4">Developing Safe and Efficient Self-Driving Vehicles’ Operation through Sensor Data</a>
     <li> 🌱 I’m currently learning PlatformIO + Arduino.
     <li> 👯 I’m looking to collaborate on Minecraft Mods, need a mod's resource pack artist
     <li> 💬 Ask me about Python, Kotlin, C++, C, C, Visual Studio, Visual Studio Code, Unity, Unreal, Godot
