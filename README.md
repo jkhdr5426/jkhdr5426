@@ -12,7 +12,12 @@
 
 <div>
   <img width="370px" align="right" src="https://user-images.githubusercontent.com/85592265/209687162-ae19bdd1-7723-444f-a721-c56477b01c25.jpg" />
-
+  <h2>Maker Portfolio</h2>
+  <ul>
+    <li> TSA Webmaster: https://github.com/jkhdr5426/Louisville-Together 
+    <li> Umbrella Sampling within GCM-KY Mirror: https://github.com/jkhdr5426/GCM-KY-software-tools-mirror/tree/main/umbrellasampling
+    <li> Manim: 
+  </ul>
   <h2>Quick Info</h2>
   <ul>
     <li> 🔭 I’m currently working on Learning with Errors!</a>
@@ -24,12 +29,7 @@
     <li> 😄 Pronouns: He, Him, His
     <li> ⚡ Fun fact: I love anime.
   </ul>
-  <h2>Maker Portfolio</h2>
-  <ul>
-    <li> TSA Webmaster: https://github.com/jkhdr5426/Louisville-Together 
-    <li> Umbrella Sampling within GCM-KY Mirror: https://github.com/jkhdr5426/GCM-KY-software-tools-mirror/tree/main/umbrellasampling
-    <li> Manim: 
-  </ul>
+  
 </div>
 
 </br>
