@@ -15,9 +15,9 @@
   <h2>Maker Portfolio</h2>
   <ul>
     <li> TSA Webmaster: https://github.com/jkhdr5426/Louisville-Together 
-    <li> September 6 - October 1: Umbrella Sampling within GCM-KY Mirror: https://github.com/jkhdr5426/GCM-KY-software-tools-mirror/tree/main/umbrellasampling
-    <li> October 1, 2024: Umbrella Sampling Raw Data Shown in the PDF File: https://github.com/jkhdr5426/umbrellasampling_data
     <li> June 3 - September 19 2024: Umbrella Sampling Prototype https://github.com/jkhdr5426/gh_scoresolver 
+    <li> September 6 - October 1: Official Umbrella Sampling within GCM-KY Mirror: https://github.com/jkhdr5426/GCM-KY-software-tools-mirror/tree/main/umbrellasampling
+    <li> October 1, 2024: Umbrella Sampling Raw Data Shown in the PDF File: https://github.com/jkhdr5426/umbrellasampling_data
     <li> Manim: https://github.com/jkhdr5426/manimvideo 
   </ul>
   <h2>Quick Info</h2>
