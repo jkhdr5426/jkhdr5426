@@ -22,7 +22,6 @@
   <ul>
     <li> 🔭 I’m currently working on Learning with Errors!</a>
     <li> 🌱 I’m currently learning lattice-based cryptography!
-    <li> :) I have taste for competitive programming and am currently USACO Silver Division as a 10th grader.
     <li> 👯 I’m looking to collaborate on Minecraft Mods, need a mod's resource pack artist
     <li> 💬 Ask me about Python, Kotlin, C++, C, C, Visual Studio, Visual Studio Code, Unity, Unreal, Godot
     <li> 📫 How to reach me: redhydratechnologies@gmail.com, coderman09@gmail.com
