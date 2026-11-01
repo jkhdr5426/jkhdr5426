@@ -16,7 +16,7 @@
   <ul>
     <li> TSA Webmaster: https://github.com/jkhdr5426/Louisville-Together 
     <li> Umbrella Sampling within GCM-KY Mirror: https://github.com/jkhdr5426/GCM-KY-software-tools-mirror/tree/main/umbrellasampling
-    <li> Manim: 
+    <li> Manim: https://github.com/jkhdr5426/manimvideo 
   </ul>
   <h2>Quick Info</h2>
   <ul>
