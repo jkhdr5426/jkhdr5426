@@ -15,14 +15,20 @@
 
   <h2>Quick Info</h2>
   <ul>
-    <li> 🔭 I’m currently working on <a href="https://github.com/ISEF-7/project_v4">Developing Safe and Efficient Self-Driving Vehicles’ Operation through Sensor Data</a>
-    <li> 🌱 I’m currently learning PlatformIO + Arduino.
+    <li> 🔭 I’m currently working on Learning with Errors!</a>
+    <li> 🌱 I’m currently learning lattice-based cryptography!
     <li> :) I have taste for competitive programming and am currently USACO Silver Division as a 10th grader.
     <li> 👯 I’m looking to collaborate on Minecraft Mods, need a mod's resource pack artist
     <li> 💬 Ask me about Python, Kotlin, C++, C, C, Visual Studio, Visual Studio Code, Unity, Unreal, Godot
     <li> 📫 How to reach me: redhydratechnologies@gmail.com, coderman09@gmail.com
     <li> 😄 Pronouns: He, Him, His
-    <li> ⚡ Fun fact: I hate boned meat.
+    <li> ⚡ Fun fact: I love anime.
+  </ul>
+  <h2>Maker Portfolio</h2>
+  <ul>
+    <li> TSA Webmaster: https://github.com/jkhdr5426/Louisville-Together 
+    <li> Umbrella Sampling within GCM-KY Mirror: https://github.com/jkhdr5426/GCM-KY-software-tools-mirror/tree/main/umbrellasampling
+    <li> Manim: 
   </ul>
 </div>
 
