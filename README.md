@@ -11,7 +11,6 @@
 </br>
 
 <div>
-  <img width="370px" align="right" src="https://user-images.githubusercontent.com/85592265/209687162-ae19bdd1-7723-444f-a721-c56477b01c25.jpg" />
   <h2>Maker Portfolio</h2>
   <ul>
     <li> TSA Webmaster: https://github.com/jkhdr5426/Louisville-Together 
